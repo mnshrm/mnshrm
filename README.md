@@ -1,6 +1,14 @@
 # 💫 About Me:
 
-Hello, I am a MERN stack developer, currently working on React front-end project
+I am a computer science engineering student at MAIT, IP University, and a web development enthusiast. I am currently working as an intern at Sopra Banking Software, where I am involved in API automation testing project. 
+
+I am passionate about creating high-quality products that solve real-world problems and enhance user experience.
+
+Previously, I worked as a frontend developer at OptMlanalytics, where I developed data analytics and visualization applications for supply chain management. I used technologies such as Leaflet.js, Nivo charts, Redux, and MUI to implement features such as geospatial data visualization, scenario management interface, and interactive charts. I also worked as a TBS expert at Chegg India, where I provided well-documented solutions to computer science questions from students.
+
+I have completed multiple certifications in web development, data structures and algorithms, and React from Udemy. I have also practiced my coding skills on platforms such as Leetcode and GeeksforGeeks. 
+
+I am eager to learn new technologies and frameworks, and to apply my knowledge and skills to challenging and meaningful projects. My goal is to pursue software engineering opportunities at financial institutions, where I can contribute to the innovation and growth of the industry.
 
 ## 🌐 Socials:
 
