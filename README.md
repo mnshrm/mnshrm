@@ -1,14 +1,13 @@
 # 💫 About Me:
 
-I am a computer science engineering student at MAIT, IP University, and a web development enthusiast. I am currently working as an intern at Sopra Banking Software, where I am involved in API automation testing project. 
+Improving open source projects with my contributions
 
-I am passionate about creating high-quality products that solve real-world problems and enhance user experience.
+## Open source badges
+<div align="left">
+  
+[![ToolJet Template Trailblazer](https://logo-badges.tooljet.com/Template-Template-Badge.svg)](https://github.com/orgs/ToolJet/projects/16/views/2)
 
-Previously, I worked as a frontend developer at OptMlanalytics, where I developed data analytics and visualization applications for supply chain management. I used technologies such as Leaflet.js, Nivo charts, Redux, and MUI to implement features such as geospatial data visualization, scenario management interface, and interactive charts. I also worked as a TBS expert at Chegg India, where I provided well-documented solutions to computer science questions from students.
-
-I have completed multiple certifications in web development, data structures and algorithms, and React from Udemy. I have also practiced my coding skills on platforms such as Leetcode and GeeksforGeeks. 
-
-I am eager to learn new technologies and frameworks, and to apply my knowledge and skills to challenging and meaningful projects. My goal is to pursue software engineering opportunities at financial institutions, where I can contribute to the innovation and growth of the industry.
+</div>
 
 ## 🌐 Socials:
 
@@ -22,7 +21,9 @@ I am eager to learn new technologies and frameworks, and to apply my knowledge a
 
 ![](https://github-profile-trophy.vercel.app/?username=mnshrm&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
+
 ### 🔝 Top Contributed Repo
+Have successfully contributed to several open source projects, such as tooljet, open healthcare network.
 
 ![](https://github-contributor-stats.vercel.app/api?username=mnshrm&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
